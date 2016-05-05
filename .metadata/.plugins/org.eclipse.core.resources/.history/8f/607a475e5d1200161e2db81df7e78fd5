@@ -1,0 +1,11 @@
+
+public class Review {
+	String genre;
+	String date;
+	String name;
+	String source;
+	String title;
+	String text;
+
+	
+}

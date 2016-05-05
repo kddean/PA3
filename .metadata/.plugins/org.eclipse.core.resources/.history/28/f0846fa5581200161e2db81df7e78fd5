@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="Theatre Review Mashup Service -REST">
+        <property name="context-root" value="Theatre_Review_Mashup_Service_-REST"/>
+    </wb-module>
+</project-modules>
